@@ -21,6 +21,10 @@ gcloud run deploy SERVICE \
 If you want to manually configure things (so no interactive
 prompts), then read on...
 
+Learn more about:
+ - [Deno](https://deno.land/)
+ - [Cloud Run](https://cloud.google.com/run)
+
 ## Setup
 
 ### Set environment:
